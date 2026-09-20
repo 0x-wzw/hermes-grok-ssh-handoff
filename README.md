@@ -1,5 +1,7 @@
 # Grok Bot ↔ Hermes Remote — SSH Linkup
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](#)
 [![Activation](https://img.shields.io/badge/sole_activation-Hermes_4425834-blue)](#sole-activation--hermes-bot-4425834)
 [![Sanitized](https://img.shields.io/badge/secrets-placeholders_only-lightgrey)](#security--sanitization)
@@ -245,3 +247,7 @@ If a secret is ever committed: **rotate immediately** and purge from history.
 - [Architecture](docs/ARCHITECTURE.md)
 - [Security](SECURITY.md)
 - [Obsidian note](obsidian/Grok-Bot-Hermes-SSH-Linkup.md)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
